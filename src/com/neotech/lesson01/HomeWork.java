@@ -13,8 +13,6 @@ public class HomeWork {
 		//End the Session (close the browser).
 		
 		
-		
-		
 		WebDriver drivers= new ChromeDriver();
 		
 		drivers.get("https://www.amazon.com/");
